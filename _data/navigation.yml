@@ -63,7 +63,7 @@ pages:
       - title: "Part 7 - MitoHifi"
         url: /handsOn_9_mitohifi/
 
-    - title: "Curation"
+  - title: "Curation"
     children:
       - title: "Part 1 - Introduction"
         url: /curation_1_introduction/

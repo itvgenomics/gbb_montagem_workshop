@@ -62,6 +62,11 @@ pages:
         url: /handsOn_8_curated/ 
       - title: "Part 7 - MitoHifi"
         url: /handsOn_9_mitohifi/
+
+    - title: "Curation"
+    children:
+      - title: "Part 1 - Introduction"
+        url: /curation_1_introduction/
   
   - title: "References"
     children:
